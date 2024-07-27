@@ -1,0 +1,17 @@
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_BAL.deps.json
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_BAL.runtimeconfig.json
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_BAL.dll
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_BAL.pdb
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_DAL.dll
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\bin\Debug\net8.0\IRDA_DAL.pdb
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.csproj.AssemblyReference.cache
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.AssemblyInfoInputs.cache
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.AssemblyInfo.cs
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.csproj.CoreCompileInputs.cache
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.csproj.CopyComplete
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.dll
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\refint\IRDA_BAL.dll
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.pdb
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\IRDA_BAL.genruntimeconfig.cache
+C:\Users\2317237\OneDrive - Cognizant\Desktop\MicroService\IRDA_MicroService\IRDA_BAL\obj\Debug\net8.0\ref\IRDA_BAL.dll

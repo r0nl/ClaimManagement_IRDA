@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IRDA_MicroService.props" />
+</Project>
